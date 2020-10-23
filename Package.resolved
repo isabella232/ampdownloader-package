@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AmpCore",
+        "repositoryURL": "https://github.com/akamai/ampcore-package",
+        "state": {
+          "branch": null,
+          "revision": "fa63b11ffdb7adbb7ac28ccae1b3c0503b8b4738",
+          "version": "9.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
